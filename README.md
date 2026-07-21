@@ -1,4 +1,3 @@
-# carlosjavierp
 Mi perfil en Github.
 
 # 👋 ¡Hola, soy Carlos Javier Pérez!
