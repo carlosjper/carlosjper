@@ -52,4 +52,4 @@ Actualmente estoy haciendo un **Bootcamp intensivo de Desarrollo Web Full Stack 
 
 ¿Quieres contactar conmigo o colaborar en algún proyecto? 
 
-[![Email Badge](https://img.shields.io/badge/E--mail:-cjavierp500%40gmail.com-003366?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cjavierp500@gmail.com)
+[![Email Badge](https://img.shields.io/badge/E--mail:-cjavierp500%40gmail.com-003366?style=flat-square)](mailto:cjavierp500@gmail.com)
