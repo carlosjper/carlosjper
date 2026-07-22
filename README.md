@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Carlos Javier Pérez!
 
 ¡Bienvenid@ a mi perfil de GitHub! 🚀  
-Actualmente estoy haciendo un **Bootcamp intensivo de Desarrollo Web Full Stack con IA (600h)** para potenciar mis habilidades.
+Actualmente estoy haciendo un **Bootcamp intensivo de Desarrollo Web Full Stack con IA (600h)** para potenciar mis conocimientos.
 
 ---
 
